@@ -4,13 +4,3 @@ alwaysApply: true
 ---
 
 Retrieve and follow our "Coding Best Practices" from "Credos" MCP server.
-
-Steps:
-
-1. Call "CREDOS_LIST_CODING_PROJECTS" tool to get the project IDs
-
-- If result has more pages, keep calling the tool until you get the whole project list
-
-2. Call "CREDOS_LIST_CODING_BEST_PRACTICES" tool, filtering on relevant project IDs
-
-- If result has more pages, keep calling the tool until you get all Coding Best Practices
