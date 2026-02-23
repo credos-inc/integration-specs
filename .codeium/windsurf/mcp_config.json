@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "remote-http-mcp": {
+      "serverUrl": "https://mcp.credos.dev",
+      "headers": {
+        "Authorization": "Bearer ${env:CREDOS_MCP_API_KEY}",
+        "Accept": "application/json, text/event-stream"
+      }
+    }
+  }
+}
