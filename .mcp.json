@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "Credos": {
+      "type": "http",
+      "url": "https://mcp.credos.dev",
+      "headers": {
+        "Authorization": "Bearer ${CREDOS_MCP_API_KEY}",
+        "Accept": "application/json, text/event-stream"
+      }
+    }
+  }
+}
