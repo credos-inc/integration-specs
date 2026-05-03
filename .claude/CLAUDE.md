@@ -5,4 +5,4 @@ Always retrieve and follow our "Coding Best Practices" from "Credos" MCP server 
 - Code generation
 - Code editing (e.g. refactoring, bug fixes)
 
-**Note** Carry on if the user declines or skips the MCP tool call.
+**Note:** Carry on if the user declines or skips the MCP tool call.
