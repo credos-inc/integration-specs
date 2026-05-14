@@ -1,8 +1,8 @@
-# Coding Best Practices
+# Agent Rules
 
-Always retrieve and follow our "Coding Best Practices" from "Credos" MCP server for the following tasks:
+Always retrieve and follow our "agent rules" from "Credos" MCP server for the following tasks:
 
 - Code generation
 - Code editing (e.g. refactoring, bug fixes)
 
-**Note:** Carry on if user declines or skips the MCP tool call.
+**Note** Carry on if user skips the MCP tool call.
